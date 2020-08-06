@@ -16,7 +16,7 @@ with open("README.md", "r") as file:
 
 setuptools.setup(
     name = "lambdata_logstar",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "logan_stark",
     description = 'a Collection of Data Science Functions',
     long_description = LONG_DESCRIPTION,
